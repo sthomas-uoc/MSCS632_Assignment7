@@ -13,7 +13,7 @@ To run the application run `./stats_calc <number1> <number2> ...`
 ### OCaml
 The OCaml implementation is in the directory `stats_calc_ocaml`
 
-To build the application, run `ocamlx -o stats_calc stats_calc.ml`
+To build the application, run `ocamlc -o stats_calc stats_calc.ml`
 
 To run the application run `./stats_calc <number1> <number2> ...`
 
